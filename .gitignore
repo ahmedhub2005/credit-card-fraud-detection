@@ -5,3 +5,5 @@ numpy.cpython-311/
 before Deep learning/
 notebooks/
 archive (4)/
+creditcard.csv
+*.pyc
